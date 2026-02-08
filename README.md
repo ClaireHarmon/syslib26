@@ -36,3 +36,6 @@ pretend there is code here.
 
 ---
 More text.
+
+## Adding a new section.
+This is a new section. 
