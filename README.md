@@ -21,7 +21,7 @@ This repo will contain information I have learned in this class, document change
 cd repo_name
 git pull origin main
 ```
-## Git Push Info
+## Git Push from VM Info
 
 Stage changes with
 ```
