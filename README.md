@@ -1,41 +1,43 @@
-# syslib26
+# Systems Librarianship
 
-## Test Repo for SysLib course.
-
-I can make text **bold** or *italic*.
-
-Here is a list:
-
-* Apple
-* Banana
-* Orange
-  * Naval
-  * Mandarin
-* Watermelon
-
-1. Apple
-2. Banana
-3. Orange
-   * Naval
-   * Mandarin
-4. Watermelon
-
-Here is a link to [Addison Rae's Grammy performance](https://youtu.be/dSjU_qHugbo?si=PRQMjkGpPoZQlNvP "Fame is a Gun").
-
-Here is a random picture of Britney Spears.
-
-![Britney Spears](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg/500px-Britney_Spears_2013_%28Straighten_Crop%29.jpg)
-
-I am learning `bash`.
-Here is a code block:
-```
-pretend there is code here.
-```
-> Quote
->> Another quote.
-
+This repo will contain information I have learned in this class, document changes made on my server, and save reminders for how to do basic tasks. 
 ---
-More text.
+## Basic Commands
 
-## Adding a new section.
-This is a new section. 
+* list files and directories.................. ls
+* print name of current/working directory..... pwd
+* create a new directory...................... mkdir
+* remove or delete an empty directory......... rmdir
+* change directory............................ cd
+* create an empty file........................ touch
+* print characters to output.................. echo
+* display contents of a text file............. cat
+* copy a file or directory.................... cp
+* move or rename a file or directory.......... mv
+* remove or delete a file or directory........ rm
+---
+## Git Pull to VM Info
+```
+cd repo_name
+git pull origin main
+```
+## Git Push Info
+
+Stage changes with
+```
+git add file_name
+```
+
+Commit changes with
+```
+git commit -m "commit message here"
+```
+
+Push to GitHub with
+```
+git push origin main
+```
+
+
+
+
