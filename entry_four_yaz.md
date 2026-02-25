@@ -27,7 +27,7 @@ Z> find @and @attr 1=4 "information" @attr 1=21 "library science"
 ```@attr 1=21``` instructs the query to search for the term in the subject heading field
 ```"library science"``` is the second search term for the subject heading search
 
-Use ``show``` command to see records:
+Use ```show``` command to see records:
 ```
 show 1
 ```
