@@ -239,7 +239,7 @@ Contents:
 $db_hostname = "localhost";
 $db_database = "opacdb";
 $db_username = "opacuser";
-$db_password = "your_password";
+$db_password = "XXXXXXXXX";
 ?>
 ```
 
